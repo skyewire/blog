@@ -1,0 +1,3 @@
+== Blog
+
+This is the sample blog app from the <em>Getting Started with Rails</em> guide, souped up with Twitter Bootstrap.
